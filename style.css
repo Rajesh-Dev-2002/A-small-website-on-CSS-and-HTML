@@ -1,0 +1,68 @@
+*{
+    background-color:;
+    font-family: 'Wix Madefor Display', sans-serif;
+
+}
+.cls1{
+   color: hsl(166, 77%, 43%);
+   position: relative;
+   left: 80px;
+}
+.cls2{
+    color: #89eb34;
+}
+.cls3{
+    color: #aab3aa;
+}
+.cls4{
+    color: white;
+    position: relative;
+    left: 80px;
+}
+.cls5{
+    color: hsl(0, 64%, 98%);
+    position: relative;
+    left: 45px;
+}
+.cls6{
+    color: whitesmoke;
+    position: relative;
+    left: 45px;
+}
+.cls7{
+    background-color: #89eb34;
+    color: white;
+    position: relative;
+    left: 45px;
+    width: 300px;
+    height: 100px;
+    margin: 89eb34;
+
+}
+.cls8{
+    color: white;
+}
+.cls9{
+    color: white;
+}
+.box2{
+    width: 500px;
+    height: 320px;
+    margin: 10px;
+    padding: 25px;
+    border: 5px solid #0cc0b1;
+    background-color: #0cc0b1;
+  }
+  .box3{
+    display: grid;
+    width: 500px;
+    height: 320px;
+    margin: 10px;
+    padding: 25px;
+    border: 5px solid #0cc0b1;
+    background-color: rgb(60, 228, 214);
+    position: relative;
+    left: 550px;
+    right: 5000px;
+    bottom: 390px;
+  }
